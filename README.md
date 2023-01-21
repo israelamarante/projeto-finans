@@ -1,2 +1,2 @@
 # projeto-finans
- Site feito com boostrap4
+ Praticando um pouco boostrap4 na criação desse site.
